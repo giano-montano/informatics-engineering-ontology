@@ -11,7 +11,7 @@ Este repositorio contiene la ontología desarrollada como parte de la tesis: **"
 
 La documentación técnica de las clases, jerarquías y propiedades de objeto/datos está alojada mediante GitHub Pages.
 
-👉 **[Ver documentación de la ontología](https://giano-montano.github.io/informatics-engineering-ontology/)** _(Nota: asegúrate de que el enlace sea este o cámbialo por el exacto)._
+👉 **[Ver documentación de la ontología](https://giano-montano.github.io/informatics-engineering-ontology/)**
 
 ## 🛠 Tecnologías y Herramientas
 
